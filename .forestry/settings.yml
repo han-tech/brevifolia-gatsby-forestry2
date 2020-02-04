@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: Static/Admin
-webhook_url: 
+webhook_url: https://app.netlify.com/teams/han-tech
 sections:
 - type: heading
   label: Content
